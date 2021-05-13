@@ -21,7 +21,7 @@
 </p>
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## About The Project!
 
 <img width="937" alt="calendso-screenshot" src="https://user-images.githubusercontent.com/8019099/117973912-d9405a80-b324-11eb-8b35-4262e472909c.png">
 
